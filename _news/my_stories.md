@@ -1,8 +1,12 @@
 ---
 title: "News"
 collection: news
+# type: "Undergraduate course"
+permalink: /news/my_stories
+# venue: "University 1, Department"
+# date: 2014-01-01
+# location: "City, Country"
 ---
-
 
 - Embarking on a new internship journey with the Hamoye Foundation, I am diving into the realm of Generative AI. This hands-on experience is centered on acquiring skills in Generative AI concepts within NLP and developing applications that leverage Generative AI to address societal challenges. (April, 2024)
 

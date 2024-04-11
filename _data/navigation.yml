@@ -15,8 +15,8 @@ main:
     url: /https://aljebraschool.hashnode.dev/
     
      
-  - title: "Talks"
-    url: /talks/ 
+  # - title: "Talks"
+  #   url: /talks/ 
     
   # - title: "Guide"
   #   url: /markdown/
