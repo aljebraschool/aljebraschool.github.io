@@ -9,7 +9,7 @@ main:
     url: /portfolio/portfolio-2/
     
     
-  - title: "Portfolio"
+  # - title: "Portfolio"
     url: /portfolio/
         
   - title: "Blog Posts"
