@@ -6,7 +6,7 @@ collection: portfolio
 
 - Embarking on a new internship at the [Hamoye Foundation](https://hamoye.org/), diving into Generative AI. Focused on NLP and developing applications to address societal issues. (April 2024)
 
-- Teaching Machine Learning at [UM6P - Mohammed VI Polytechnic University](https://um6p.ma/en), covering topics like Perceptron, Regression, and Classification. Providing [personalized support](https://www.youtube.com/c/aljebraschool) and fostering problem-solving skills through [hands-on projects](https://www.github.com/aljebraschool). (March 2024)
+- Teaching Machine Learning at [UM6P - Mohammed VI Polytechnic University](https://um6p.ma/en), covering topics like Perceptron, Regression, and Classification. Providing [personalized support](https://www.youtube.com/c/aljebraschool) and fostering problem-solving skills through [hands-on projects](https://github.com/aljebraschool/Machine-Learning-Tutorial---2024.git). (March 2024)
 
 - Joining DeepLearning.AI’s Deep Learning Specialization as a Technical Mentor. Excited to shape course development and support learners. (Feb 2024)
 
