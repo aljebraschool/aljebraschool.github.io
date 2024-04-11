@@ -1,6 +1,6 @@
 ---
 title: "Akomolede"
-excerpt: "Enhanced Yoruba Learning App with Collective Intelligence"<br/><img src='/images/500x300.png'>"
+excerpt: "Enhanced Yoruba Learning App with Collective Intelligence <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
