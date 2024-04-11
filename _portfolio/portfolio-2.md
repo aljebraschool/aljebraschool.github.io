@@ -16,6 +16,6 @@ collection: portfolio
 
 - Awarded Full Master's Scholarship in Collective Intelligence by Moroccan Government. (Oct 2022)
 
-- Completed degree as the best graduating student in the Mathematics Department at Adekunle Ajasin University. (Nov 2021)
+- Completed degree as the best graduating student in the Mathematics Department at [Adekunle Ajasin University](https://aaua.edu.ng/). (Nov 2021)
 
 
