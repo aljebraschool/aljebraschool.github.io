@@ -14,7 +14,7 @@ permalink: /
 
 - I am serving as a Technical Mentor for DeepLearning.AI's Deep Learning Specialization, addressing students' technical questions and contributing to course development as a tester. This ongoing role allows me to support learners and contribute to the advancement of deep learning education.(Feb, 2024)
 
-- I am delighted to announce that I have been featured on the cover of UM6P Career Center's [Horizon magazine] (https://lnkd.in/dpcFNQFp). This recognition highlights my journey from undergraduate studies to exploring Artificial Intelligence, fueled by my passion for programming. Notably, the creation of the Yoruba language learning app, Akomolede, and the development of a comprehensive knowledge base for mathematics and programming are among my highlighted achievements. (Nov, 2023)
+- I am delighted to announce that I have been featured on the cover of UM6P Career Center's [Horizon magazine](https://lnkd.in/dpcFNQFp). This recognition highlights my journey from undergraduate studies to exploring Artificial Intelligence, fueled by my passion for programming. Notably, the creation of the Yoruba language learning app, Akomolede, and the development of a comprehensive knowledge base for mathematics and programming are among my highlighted achievements. (Nov, 2023)
 
 - I am excited to share that I have been featured in an exclusive interview with [Edugist](https://edugist.org/i-have-always-had-a-deep-interest-in-creating-tools-ibidunni/), a prominent educational news platform in Nigeria. The interview focused on the development of the Yoruba language learning application, Akomolede, offering insights into its creation and impact on language education. (July, 2023)
 
