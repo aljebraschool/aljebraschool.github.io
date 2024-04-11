@@ -14,6 +14,8 @@ collection: portfolio
 
 - Featured in an exclusive interview with Edugist, discussing the development and impact of the Yoruba language learning app, Akomolede. (July 2023)
 
+- Awarded Full Master's Scholarship in Collective Intelligence by Moroccan Government. (Oct 2022)
+
 - Completed degree as the best graduating student in the Mathematics Department at Adekunle Ajasin University. (Nov 2021)
 
-- Awarded Full Master's Scholarship in Collective Intelligence by Moroccan Government. (Oct 2022)
+
