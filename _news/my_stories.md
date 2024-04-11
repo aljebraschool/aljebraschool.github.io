@@ -1,8 +1,12 @@
 ---
+permalink: /
 title: "News"
-collection: news
-permalink: /_news/my_stories.md
+author_profile: true
+redirect_from: 
+  - /news/
+  - /news.html
 ---
+
 
 - Embarking on a new internship journey with the Hamoye Foundation, I am diving into the realm of Generative AI. This hands-on experience is centered on acquiring skills in Generative AI concepts within NLP and developing applications that leverage Generative AI to address societal challenges. (April, 2024)
 
@@ -18,3 +22,10 @@ permalink: /_news/my_stories.md
 
 
 - Awarded Full Master's Scholarship in Collective Intelligence by Moroccan Government Issued by the Government of Morocco (Oct, 2022).
+
+
+<!-- ---
+title: "News"
+collection: news
+permalink: /news/my_stories.md
+--- -->
