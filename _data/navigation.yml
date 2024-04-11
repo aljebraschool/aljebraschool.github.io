@@ -5,14 +5,14 @@ main:
   - title: "CV"
     url: /files/Ridwan Ibidunni Resume - Tech (17 march, 2024).pdf  
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "News"
+    url: /news/    
     
   - title: "Portfolio"
     url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /aljebraschool.hashnode.dev/
     
      
   # - title: "Talks"
