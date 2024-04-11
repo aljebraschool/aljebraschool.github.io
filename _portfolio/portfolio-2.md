@@ -10,7 +10,7 @@ collection: portfolio
 
 - Joining DeepLearning.AI’s Deep Learning Specialization as a Technical Mentor. Excited to shape course development and support learners. (Feb 2024)
 
-- Featured on the cover of UM6P Career Center’s [Horizon magazine](https://heyzine.com/flip-book/feac47ef29.html](https://heyzine.com/flip-book/feac47ef29.html), celebrating the journey from undergrad to AI exploration. Highlights include creating the Yoruba language learning app, Akomolede. (Nov 2023)
+- Featured on the cover of UM6P Career Center’s [Horizon magazine](https://heyzine.com/flip-book/feac47ef29), celebrating the journey from undergrad to AI exploration. Highlights include creating the Yoruba language learning app, Akomolede. (Nov 2023)
 
 - Featured in an exclusive interview with [Edugist](https://edugist.org/i-have-always-had-a-deep-interest-in-creating-tools-ibidunni/), discussing the development and impact of the Yoruba language learning app, Akomolede. (July 2023)
 
