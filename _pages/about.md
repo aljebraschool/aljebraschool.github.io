@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 
-About
-======
 As a dedicated problem-solver, I have always been passionate about applying mathematical concepts to real-world issues. During my master's degree in Collective Intelligence, this passion was further enriched as I undertook research projects under esteemed supervisors.
 
 Under the guidance of Dr. Benmarrakchi FatimaEzzahra, I developed a model to [monitor the eye movements of children with dyslexia](https://www.researchgate.net/publication/379118533_Eye_Movement_Tracking_Using_Convolutional_Neural_Network) during digital activities using Convolutional Neural Networks. This project aimed to enhance understanding and support for individuals with dyslexia.
