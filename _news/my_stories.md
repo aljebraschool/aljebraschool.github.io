@@ -1,7 +1,6 @@
 ---
 title: "News"
-# collection: portfolio
-collection: news
+collection: portfolio
 # type: "Undergraduate course"
 permalink: /news/my_stories
 # venue: "University 1, Department"

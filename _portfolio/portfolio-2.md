@@ -1,6 +1,6 @@
 ---
 title: "News"
-excerpt: "Enhanced Yoruba Language Learning App through Collective Intelligence<br/><img src='/images/500x300.png'>"
+<!-- excerpt: "Enhanced Yoruba Language Learning App through Collective Intelligence<br/><img src='/images/500x300.png'>" -->
 collection: portfolio
 ---
 
@@ -16,5 +16,5 @@ collection: portfolio
 
 - I completed my degree as the best graduating student in the Mathematics Department at Adekunle Ajasin University (Nov 2021).
 
-- Awarded Full Master's Scholarship in Collective Intelligence by Moroccan Government Issued by the Government of Morocco (Oct, 2022).
 
+- Awarded Full Master's Scholarship in Collective Intelligence by Moroccan Government Issued by the Government of Morocco (Oct, 2022).
