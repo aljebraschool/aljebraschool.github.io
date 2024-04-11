@@ -12,7 +12,7 @@ collection: portfolio
 
 - Featured on the cover of UM6P Career Center’s [Horizon magazine](https://heyzine.com/flip-book/feac47ef29), celebrating the journey from undergrad to AI exploration. Highlights include creating the Yoruba language learning app, Akomolede. (Nov 2023)
 
-- Featured in an exclusive interview with [Edugist](https://edugist.org/i-have-always-had-a-deep-interest-in-creating-tools-ibidunni/), discussing the development and impact of the Yoruba language learning app, Akomolede. (July 2023)
+- Featured in an exclusive interview with [Edugist](https://edugist.org/i-have-always-had-a-deep-interest-in-creating-tools-ibidunni/), discussing the development and impact of the Yoruba language learning app, [Akomolede](https://play.google.com/store/apps/details?id=aljebraschool.example.akomolede&pcampaignid=web_share). (July 2023)
 
 - Awarded Full Master's Scholarship in Collective Intelligence by Moroccan Government. (Oct 2022)
 
