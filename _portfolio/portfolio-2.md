@@ -1,5 +1,6 @@
 ---
 title: "News"
+<!-- excerpt: "Enhanced Yoruba Language Learning App through Collective Intelligence<br/><img src='/images/500x300.png'>" -->
 collection: portfolio
 ---
 
